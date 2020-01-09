@@ -1,6 +1,6 @@
 ﻿/*
 load dependency
-"HuaRobot_M1": "file:../pxt-HuaRobot_M1"
+"HuaRobot": "file:../pxt-HuaRobot_M1"
 */
 
 

@@ -3,7 +3,7 @@ load dependency
 "HuaRobot_M1": "file:../pxt-HuaRobot_M1"
 */
 
-
+///<reference path="app.ts" />
 
 
 //% color="#006400" weight=20 icon="\uf1b9"

@@ -2,7 +2,7 @@
 load dependency
 "HuaRobot_M1": "file:../pxt-HuaRobot_M1"
 */
-
+/// <reference path="app.ts" />
 
 
 

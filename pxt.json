@@ -13,6 +13,7 @@
     "files": [
         "README.md",
         "main.ts",
+	"app.ts",
         "_locales/zh/HuaRobot_M1-strings.json"
 
     ],

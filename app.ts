@@ -389,7 +389,6 @@ namespace HuaRobot_M1_音乐类 {
 
         pins.setPull(pin, PinPullMode.PullNone);
         pins.digitalWritePin(pin, value);
-        console.log("import success");
     }
 
 }

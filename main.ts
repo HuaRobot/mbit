@@ -428,7 +428,7 @@ load dependency
 // }
 
 //% color="#006400" weight=20 icon="\uf1b9"
-namespace HuaRobot_M1_小车类 {
+namespace SmallCarM2 {
 
     const PCA9685_ADD = 0x41
     const MODE1 = 0x00

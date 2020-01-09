@@ -1,11 +1,11 @@
 {
     "name": "HuaRobot",
     "version": "1.2.0",
-    "description": "Extension for Kittenbot Robotbit",
+    "description": "Extension for Hua_M1",
     "license": "MIT",
     "dependencies": {
         "core": "*",
-        "neopixel": "github:microsoft/pxt-neopixel#v0.3.10",
+        "neopixel": "github:microsoft/pxt-neopixel#v0.6.13",
         "HuaRobot_M1_IR":  "github:HuaRobot/hua_microbit-ir"
 	
 
@@ -19,5 +19,6 @@
     "testFiles": [
         "test.ts"
     ],
-    "public": true
+    "public": true,
+    "preferredEditor": "tsprj"
 }

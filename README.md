@@ -1,6 +1,6 @@
 # HuaRobot_M1
 
-Extension for Hua_microbit
+Extension for Hua_M1
 
 ## License
 

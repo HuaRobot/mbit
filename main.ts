@@ -5,7 +5,7 @@ load dependency
 
 
 
-//% color="#006400" weight=20 icon="\uf1b9"
+//% color="#006400" weight=20 icon="\uf1d0"
 namespace SmallCar_M2 {
 
     const PCA9685_ADD = 0x41

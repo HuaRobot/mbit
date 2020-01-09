@@ -32,21 +32,21 @@ namespace SmallCarM2 {
 
     export enum enColor {
 
-        //% blockId="OFF" block="灭|OFF"
+        //% blockId="OFF" block="OFF"
         OFF = 0,
-        //% blockId="Red" block="红色"
+        //% blockId="Red" block="Red"
         Red,
-        //% blockId="Green" block="绿色"
+        //% blockId="Green" block="Green"
         Green,
-        //% blockId="Blue" block="蓝色"
+        //% blockId="Blue" block="Blue"
         Blue,
-        //% blockId="White" block="白色"
+        //% blockId="White" block="White"
         White,
-        //% blockId="Cyan" block="青色"
+        //% blockId="Cyan" block="Cyan"
         Cyan,
-        //% blockId="Pinkish" block="品红"
+        //% blockId="Pinkish" block="Pinkish"
         Pinkish,
-        //% blockId="Yellow" block="黄色"
+        //% blockId="Yellow" block="Yellow"
         Yellow,
 
     }
@@ -76,24 +76,24 @@ namespace SmallCarM2 {
     }
     export enum enPos {
 
-        //% blockId="LeftState" block="左边状态"
+        //% blockId="LeftState" block="Left state"
         LeftState = 0,
-        //% blockId="RightState" block="右边状态"
+        //% blockId="RightState" block="Right state"
         RightState = 1
     }
 
     export enum enLineState {
-        //% blockId="White" block="白线"
+        //% blockId="White" block="White Line"
         White = 0,
-        //% blockId="Black" block="黑线"
+        //% blockId="Black" block="Black Line"
         Black = 1
 
     }
     
     export enum enAvoidState {
-        //% blockId="OBSTACLE" block="有障碍物"
+        //% blockId="OBSTACLE" block="Obstacle"
         OBSTACLE = 0,
-        //% blockId="NOOBSTACLE" block="无障碍物"
+        //% blockId="NOOBSTACLE" block="No Obstacle"
         NOOBSTACLE = 1
 
     }
@@ -109,19 +109,19 @@ namespace SmallCarM2 {
 		S6 = 11
     }
     export enum CarState {
-        //% blockId="Car_Run" block="前行"
+        //% blockId="Car_Run" block="Forward "
         Car_Run = 1,
-        //% blockId="Car_Back" block="后退"
+        //% blockId="Car_Back" block="Backward"
         Car_Back = 2,
-        //% blockId="Car_Left" block="左转"
+        //% blockId="Car_Left" block="Left turn"
         Car_Left = 3,
-        //% blockId="Car_Right" block="右转"
+        //% blockId="Car_Right" block="Right turn"
         Car_Right = 4,
-        //% blockId="Car_Stop" block="停止"
+        //% blockId="Car_Stop" block="Stop"
         Car_Stop = 5,
-        //% blockId="Car_SpinLeft" block="原地左旋"
+        //% blockId="Car_SpinLeft" block="Round Left turn"
         Car_SpinLeft = 6,
-        //% blockId="Car_SpinRight" block="原地右旋"
+        //% blockId="Car_SpinRight" block="Round Right turn"
         Car_SpinRight = 7
     }
 

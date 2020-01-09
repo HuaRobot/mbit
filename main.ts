@@ -76,16 +76,16 @@ namespace SmallCarM2 {
     }
     export enum enPos {
 
-        //% blockId="LeftState" block="Left state"
+        //% blockId="LeftState" block="LeftState"
         LeftState = 0,
-        //% blockId="RightState" block="Right state"
+        //% blockId="RightState" block="RightState"
         RightState = 1
     }
 
     export enum enLineState {
-        //% blockId="White" block="White Line"
+        //% blockId="White" block="WhiteLine"
         White = 0,
-        //% blockId="Black" block="Black Line"
+        //% blockId="Black" block="BlackLine"
         Black = 1
 
     }
@@ -93,7 +93,7 @@ namespace SmallCarM2 {
     export enum enAvoidState {
         //% blockId="OBSTACLE" block="Obstacle"
         OBSTACLE = 0,
-        //% blockId="NOOBSTACLE" block="No Obstacle"
+        //% blockId="NOOBSTACLE" block="NoObstacle"
         NOOBSTACLE = 1
 
     }
@@ -113,15 +113,15 @@ namespace SmallCarM2 {
         Car_Run = 1,
         //% blockId="Car_Back" block="Backward"
         Car_Back = 2,
-        //% blockId="Car_Left" block="Left turn"
+        //% blockId="Car_Left" block="LeftTurn"
         Car_Left = 3,
-        //% blockId="Car_Right" block="Right turn"
+        //% blockId="Car_Right" block="RightTurn"
         Car_Right = 4,
         //% blockId="Car_Stop" block="Stop"
         Car_Stop = 5,
-        //% blockId="Car_SpinLeft" block="Round Left turn"
+        //% blockId="Car_SpinLeft" block="RoundLeftturn"
         Car_SpinLeft = 6,
-        //% blockId="Car_SpinRight" block="Round Right turn"
+        //% blockId="Car_SpinRight" block="RoundRightTurn"
         Car_SpinRight = 7
     }
 
